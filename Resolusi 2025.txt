@@ -1,5 +1,7 @@
 Resolusi 2025
 
 * Unlock Skill Web Development
+  - Expert in Django Development
 * Maintain progress learning in Git
+  - Understanding Flow Git work together
 * Target to buy Home
