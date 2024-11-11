@@ -2,6 +2,7 @@ Resolusi 2025
 
 * Unlock Skill Web Development
   - Expert in Django Development
+  - Create Website Sewa HT Jakpus
 * Maintain progress learning in Git
   - Understanding Flow Git work together
-* Target to buy Home
+* Can Berdikari (Online Project)
